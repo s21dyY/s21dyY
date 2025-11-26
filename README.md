@@ -9,7 +9,7 @@
     <>Your own Terminal GIF can be created here -> https://www.terminalgif.com
 -->
 
-<img src="assets/about.gif" alt="About Me Terminal GIF"/>
+<img src="asset/about.gif" alt="About Me Terminal GIF"/>
 
 <!--
      My mission, because I'm a superhero!
