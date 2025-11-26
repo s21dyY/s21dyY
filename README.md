@@ -9,7 +9,7 @@
     <>Your own Terminal GIF can be created here -> https://www.terminalgif.com
 -->
 <div>
-    <img src="https://imgur.com/a/Jp6XLPQ" alt="About Me Terminal GIF"/>
+    <img src="https://imgur.com/a/Jp6XLPQ.gif" alt="About Me Terminal GIF"/>
 </div>
 
 <!--
