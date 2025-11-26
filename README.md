@@ -1,16 +1,15 @@
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header" alt="header"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=About%20me" alt="header"/> 
 
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=D9BED1&width=435&lines=Hello%2C+it's+Daria+Stanilevici;Business+Analyst" alt="Business Analyst"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello!+This+is+Sandy!;Data+Scientist+and+Analytics" alt="Typing SVG" />
 </a>
 
 <!--
     <>Your own Terminal GIF can be created here -> https://www.terminalgif.com
 -->
-<div>
-    <img src="https://i.imgur.com/HmvArZK.gif" alt="About Me Terminal GIF"/>
-</div>
+
+<img src="assets/about.gif" alt="About Me Terminal GIF"/>
 
 <!--
      My mission, because I'm a superhero!
@@ -30,11 +29,8 @@
 
 ### Publications
 <div> 
-  <a href="https://medium.com/@daria-stanilevici">
+  <a href="https://medium.com/@sandy.yang992">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank" alt="Medium">
-  </a>
-  <a href="https://dev.to/daria-stanilevici">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" target="_blank" alt="Dev.to">
   </a>
 </div>
 
@@ -75,7 +71,7 @@ Check out my latest post 👇
 > [!IMPORTANT]  
 > <a href="https://drive.google.com/file/d/1pQ2MNtLmdslL4zufleRHrrjuJEJpt15q/view?usp=sharing" download>Download my resume</a>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&section=footer" alt="footer"/>
 
 <!--
      Thanks for being my guest <3
