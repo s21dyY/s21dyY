@@ -40,7 +40,7 @@ I also delve into personal thoughts and research on AI, quantum computing and ot
 
 ### Connect with me!
 <div>
-    <a href="https://www.linkedin.com/in/sandy-yang">
+    <a href="https://www.linkedin.com/in/sandy-yang-538b12193">
         <img src="https://github.com/user-attachments/assets/880aaea6-79b9-4058-b9b4-342391ca04ea" alt="LinkedIn" width="35" height="35"/>
     <a href="https://www.credly.com/users/yu-hsuan-yang.53f9ce96">
         <img src="https://github.com/user-attachments/assets/6cc0dbde-bca6-43e8-a460-aa67fb449c80" alt="Credly" width="35" height="35"/>
